@@ -18,7 +18,7 @@ import ThemedImage from '@theme/ThemedImage'
 
 <!---
 Substitute the "dark:" logo path in case a new dark logo is made.x
-The code is kept here for easy maintenance.
+The code is kept here for easy maintenance.f
 -->
 
 <div class='logo-index'>

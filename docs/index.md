@@ -17,7 +17,7 @@ import ThemedImage from '@theme/ThemedImage'
 <!-- vale off -->
 
 <!---
-Substitute the "dark:" logo path in case a new dark logo is made.x
+Substitute the "dark:" logo path in case a new dark logo is made.xc
 The code is kept here for easy maintenance.
 -->
 
